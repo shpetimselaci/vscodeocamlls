@@ -17,8 +17,8 @@
 
 (package
  (name vscodeocamlls)
- (synopsis "A short synopsis")
- (description "OCaml Language Server")
+ (synopsis "OCaml Language Server")
+ (description "OCaml Language Server, DAP for OCaml")
  (depends ocaml dune)
  (tags
   (topics "DAP VSCode" your project)))

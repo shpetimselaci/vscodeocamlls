@@ -1,4 +1,4 @@
 (executable
  (public_name vscodeocamlls)
  (name main)
- (libraries vscodeocamlls))
+ (libraries vscodeocamlls lwt cohttp-lwt-unix cohttp-async yojson))
